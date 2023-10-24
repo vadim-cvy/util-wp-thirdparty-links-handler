@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-thirdparty-links-handler",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\ThirdPartyLinksHandler\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-design-patterns": "^1."
+  }
+}
